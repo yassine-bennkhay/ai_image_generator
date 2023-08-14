@@ -1,18 +1,15 @@
-# ai_app_icon_generator
 
-A new Flutter project.
+This repo is an AI image generator app using [DALL·E 2](https://openai.com/dall-e-2), Clean Architecture, and [flutter_bloc](https://pub.dev/packages/flutter_bloc) state management.
+I have a detailed series of articles explaining the clean architecture and how I applied it to build this app step by step, you can check them out:
 
-## Getting Started
+[Article 1](https://yassinebenkhay.com/ai-image-generator-in-flutter-with-clean-architecture/)
 
-This project is a starting point for a Flutter application.
+[Article 2](https://yassinebenkhay.com/ai-image-generator-flutter-clean-architecture-part-2/)
 
-A few resources to get you started if this is your first Flutter project:
+[Article 3](https://yassinebenkhay.com/create-an-ai-image-generator-flutter-clean-architecture-part-3/)
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![App Screenshot](https://github.com/yassine-bennkhay/ai_image_generator/blob/main/screenshots/screen_2.png?raw=true)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# ai_image_generator
-# ai_image_generator
+![App Screenshot](https://github.com/yassine-bennkhay/ai_image_generator/blob/main/screenshots/screen_1.png?raw=true)
+
